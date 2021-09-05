@@ -1,3 +1,5 @@
+import { PixelPainterStore, setSelected} from '../stores/PixelPainterStore'
+
 type SelectColorButtonProps = {
   color: string;
 }
